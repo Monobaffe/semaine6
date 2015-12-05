@@ -1,0 +1,91 @@
+body{
+   background-color:#E8E8E8;
+}
+
+.colonne{
+    vertical-align:top;
+    display:inline-block;
+    width:32%;
+}
+
+.image{
+    width:40%;
+    display:inline-block;
+    vertical-align:top;
+    box-sizing:border-box;
+
+}
+
+.entete{
+   width:30%;
+    display:inline-block;
+    vertical-align:top;
+    box-sizing:border-box;
+    padding-left:20%;
+}
+
+header{
+    background:url("images/header.png");
+    background-attachment:fixed;
+    width:100%;
+}
+
+main{
+     background:url("images/main.png");
+    background-attachment:fixed;/*image de fond fixe*/
+    
+}
+
+footer{
+ background:url("images/footer.png");   
+ background-attachment:fixed;
+ width:100%;
+ padding:10px;
+}
+
+iframe{
+    padding-left:10px;
+}
+
+footer p{
+    text-shadow: 2px 2px 4px black;
+    font-style:oblique;
+    color:teal;
+    text-align:center;
+    margin-left:300px;
+    width:75%;
+    
+}
+
+p{
+    text-align:justify;
+    font-family:"Comic Sans MS",Arial,Verdana;
+}
+
+h1{
+   font-family:Arial;
+   font-style:oblique;
+   text-shadow: 2px 2px 4px black; 
+}
+
+h2{
+    text-shadow: 2px 2px 4px black;
+    font-family:Arial;
+   font-style:italic;
+}
+
+h3{
+    
+    font-family:Verdana;
+    text-align:center;
+    font-style:oblique;
+    text-shadow: 2px 2px 4px black; 
+}
+ol li{
+    text-align:center;
+    font-family:"Comic Sans MS",Arial,Verdana;
+}
+ul li{
+    text-align:center;
+    font-family:"Comic Sans MS",Arial,Verdana;
+}
