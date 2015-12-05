@@ -1,4 +1,4 @@
-# semaine6
+# semaine6 avec boostrap
 
 <a href="https://github.com/Monobaffe/semaine6/blob/master/cv/cv.html">CV</a>
 ###
